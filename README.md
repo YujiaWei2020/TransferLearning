@@ -9,6 +9,6 @@ Training with low + high resolution results, test can provide high resolution re
     <th>Multi-scale learning from different mesh resolutions</th>
   </tr>
   <tr>
-    <td><img src="FSI_anim.gif" width="600" /></td>
+    <td><img src="multiscale_comparison.gif" width="600" /></td>
   </tr>
 </table>
