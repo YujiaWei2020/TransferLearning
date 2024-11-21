@@ -1,6 +1,6 @@
 # TransferLearning
 
-1. Multiscale Training \\
+1. Multiscale Training \
 
 Training with low + high resolution results, test can provide accurate high resolution results with low resolution guideness. 
 
